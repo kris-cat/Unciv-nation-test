@@ -8,8 +8,8 @@
 		"uniques": [
 			"Must have an owned [Farm] within [3] tiles",
 			"[+1 Gold] from [Farm] tiles [in this city]",
-			"[+1 Culture] from [Horses] tiles [in this city]",
-			"[+1 Production] from [Cattle] tiles [in this city]"
+			"[+1 Culture] from [Pasture] tiles [in this city]",
+			"[+1 Production] from [Plantation] tiles [in this city]"
 		],
 		"requiredTech": "Civil Service"
 	}
