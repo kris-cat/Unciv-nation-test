@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Dworek",
-		"uniqueTo": "Poland_Lithuania",
+		"uniqueTo": "Poland-Lithuania",
 		"cost": 100,
 		"hurryCostModifier": 160,
 		"happiness": 1,
