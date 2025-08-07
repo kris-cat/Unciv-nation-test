@@ -4,7 +4,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Poland-Lithuania",
 		"replaces": "Lancer",
-		"movement": 2,
+		"movement": 5,
 		"strength": 28,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
