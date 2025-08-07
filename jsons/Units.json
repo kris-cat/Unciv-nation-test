@@ -15,7 +15,7 @@
             "[-33]% Strength <vs cities> <when attacking>",
 		],
 		"promotions": ["Shock I","Formation I"],
-		"upgradesTo": "Anti-Tank Rifle",
+		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"
 	}
 ]
