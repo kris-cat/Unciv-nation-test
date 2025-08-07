@@ -31,7 +31,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Golden Liberty",
 		"uniques": [ "[+1 Happiness] per [1] social policies adopted",
-			"[+20]% [Culture,Faith] [in all cities] <during a Golden Age>"
+			"[+20]% [Culture] [in all cities] <during a Golden Age>"
 		],
 		"cities": ["Warszawa","Wilno","Kraków","Lublin","Kowno","Gniezno","Lwów","Toruń","Kamieniec",
 			"Gdanśk","Elbąg","Przemyśl","Częstochowa","Kazimierz","Grodno","Kalisz","Sandomierz"]
