@@ -9,12 +9,12 @@
         "turnsToBuild": 9,
         "techRequired": "Civil Service"
         "uniques": [
-            "[+1 Food] <with [2] to [3] neighboring [Farm] tiles>",
-            "[+2 Food] <with [4] to [5] neighboring [Farm] tiles>",
-            "[+3 Food] <with [6] to [6] neighboring [Farm] tiles>",
-            "[+2 Production] for each adjacent [Pasture]",
+            "[+1 Food, +1 Gold] <with [2] to [3] neighboring [{Farm}{Pasture}] tiles>",
+            "[+2 Food, +2 Gold] <with [4] to [5] neighboring [{Farm}{Pasture}] tiles>",
+            "[+3 Food, +3 Gold] <with [6] to [6] neighboring [{Farm}{Pasture}] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]",
             "Only available <with [0] to [0] neighboring [Folwark] tiles>",
-            "[-3 Food, -3 Production, -3 Faith] for each adjacent [Folwark]",
+            "[-3 Food, -3 Gold, -3 Faith] for each adjacent [Folwark]",
             "Cannot be built on [resource] tiles"
         ]
     },
@@ -35,6 +35,7 @@
             "[+1 Gold] for each adjacent [Plantation]",
             "[+2 Culture] for each adjacent [City center]",
             "[+2 Culture] <after discovering [Flight]>",
+			"Pillaging this improvement yields approximately [+15 Gold]",
             "Only available <with [0] to [0] neighboring [Roman Villa] tiles>",
             "[-3 Food, -3 Culture, -3 Gold] for each adjacent [Roman Villa]",
             "Cannot be built on [resource] tiles"
@@ -45,15 +46,16 @@
         "terrainsCanBeBuiltOn": [
           "Land"
         ],
-        "food": 2,
+        "food": 3,
         "uniqueTo": "America",
         "turnsToBuild": 9,
         "techRequired": "Economics"
         "uniques": [
-            "[+1 Food] <with [2] to [3] neighboring [Farm] tiles>",
-            "[+2 Food] <with [4] to [5] neighboring [Farm] tiles>",
-            "[+3 Food] <with [6] to [6] neighboring [Farm] tiles>",
+            "[+1 Food] <with [2] to [3] neighboring [{Farm}{Pasture}{Camp}] tiles>",
+            "[+2 Food] <with [4] to [5] neighboring [{Farm}{Pasture}{Camp}] tiles>",
+            "[+3 Food] <with [6] to [6] neighboring [{Farm}{Pasture}{Camp}] tiles>",
             "[+1 Gold] for each adjacent [{Pasture}{Camp}]",
+			"Pillaging this improvement yields approximately [+20 Gold]",
             "Only available <with [0] to [0] neighboring [Homestead] tiles>",
             "[-3 Food, -3 Gold] for each adjacent [Homestead]",
             "Cannot be built on [resource] tiles"
@@ -86,7 +88,7 @@
 		"turnsToBuild": 7,
 		"uniques": [
             "[+1 Food] for each adjacent [Farm]",
-            "[+2 Gold] for each adjacent [Polder]",
+            "[+1 Gold] for each adjacent [Polder]",
             "Pillaging this improvement yields approximately [+20 Gold]",
             "Only available <with [1] to [6] neighboring [Water] tiles>",
             "Only available <with [1] to [6] neighboring [City center] tiles>"
