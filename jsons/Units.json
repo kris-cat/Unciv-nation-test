@@ -17,5 +17,22 @@
 		"promotions": ["Shock I","Formation I"],
 		"upgradesTo": "Anti-Tank Gun",
 		"attackSound": "horse"
+	},
+	{
+		"name": "Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Rome",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"promotions": ["Cover 1"],
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Castrum] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
