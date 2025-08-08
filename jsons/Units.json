@@ -24,14 +24,17 @@
 		"uniqueTo": "Rome",
 		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 17,
+		"strength": 18,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"promotions": ["Cover I"],
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"uniques": [
+			"Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles",
+		
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
