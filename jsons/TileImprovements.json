@@ -64,7 +64,7 @@
 		"uniqueTo": "The Netherlands",
 		"food": 3,
 		"terrainsCanBeBuiltOn": [
-            "Coast", "Lakes", "Marsh", "Flood plains"
+            "Coast", "Lakes"
         ],
 		"turnsToBuild": 7,
 		"uniques": [
