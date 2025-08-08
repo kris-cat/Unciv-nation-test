@@ -21,7 +21,10 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Dutch East India Company",
-		"uniques": ["Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
+		"uniques": [
+			"Retain [50]% of the happiness from a luxury after the last copy has been traded away",
+			"[+1 Gold] from every [Luxury resource]"
+		],
 		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "The Hague", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
         "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
     },
@@ -31,6 +34,7 @@
 		"adjective": ["Polish"],
 		"startBias": ["Avoid [Hill]","Plains"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Jan III Sobieski",
 		
 		"startIntroPart1": "PL placeholder 1",
 		"startIntroPart2": "PL placeholder 2",
