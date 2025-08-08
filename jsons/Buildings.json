@@ -2,7 +2,7 @@
 	{
 		"name": "Ducal Stable",
 		"replaces": "Stable",
-		"uniqueTo": "Poland-Lithuania",
+		"uniqueTo": "Poland",
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
