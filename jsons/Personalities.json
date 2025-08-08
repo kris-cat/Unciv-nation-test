@@ -1,2 +1,31 @@
 [
+  {
+    "name": "Jan III Sobieski",
+    "production": 6,
+    "food": 6,
+    "gold": 6,
+    "science": 4,
+    "culture": 8,
+    "happiness": 6,
+    "faith": 8,
+    "military": 5,
+    "aggressive": 6,
+    "declareWar": 6,
+    "commerce": 6,
+    "diplomacy": 5,
+    "loyal": 8,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 6,
+      "Honor": 7,
+      "Commerce": 8,
+      "Patronage": 3,
+      "Piety": 7,
+      "Rationalism": 4,
+      "Freedom": 7,
+      "Autocracy": 7,
+      "Order": 7
+    },
+  }
 ]
