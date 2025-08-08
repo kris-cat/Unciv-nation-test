@@ -10,7 +10,9 @@
         "turnsToBuild": 9,
         "techRequired": "Civil Service"
         "uniques": [
-            "Cannot be built on [Land] tiles <in tiles adjacent to [Folwark] tiles>",
+            "Must be next to [{Wheat} {Cattle} {Sheep} {Horses}]",
+            "Only available <with [0] to [0] neighboring [Folwark] tiles>",
+            "Cannot be built on [resource] tiles",
             "[+1 Food] for each adjacent [Farm]",
             "[+1 Food] for each adjacent [Pasture]",
             "[+2 Culture] <after discovering [Flight]>",
@@ -21,16 +23,15 @@
         "terrainsCanBeBuiltOn": [
         "Land"
         ],
-        "gold": 2,
-        "culture": 1,
+        "culture": 2,
         "uniqueTo": "Rome",
         "turnsToBuild": 7,
         "techRequired": "Drama and Poetry",
         "uniques": [
-            "Cannot be built on [Land] tiles <in tiles adjacent to [Roman Villa] tiles>",
-            "[+1 Gold] for each adjacent [Farm]",
-            "[+1 Gold] for each adjacent [Plantation]",
-            "[+1 Culture] for each adjacent [Luxury resource]",
+            "Only available <with [0] to [0] neighboring [Roman Villa] tiles>",
+            "Cannot be built on [resource] tiles",
+            "[+1 Culture, +1 Gold] for each adjacent [Luxury resource]",
+            "[+1 Food, +1 Gold] for each adjacent [{Wheat} {Cattle} {Sheep}]",
             "[+2 Culture] <after discovering [Flight]>"
         ]
     }
