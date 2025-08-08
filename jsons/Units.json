@@ -27,7 +27,7 @@
 		"strength": 17,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"promotions": ["Cover 1"],
+		"promotions": ["Cover I"],
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
