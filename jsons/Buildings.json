@@ -22,8 +22,7 @@
 		"uniqueTo": "Rome",
 		"hurryCostModifier": 25,
 		"percentStatBonus": {
-			"science": 5,
-			"culture": 5,
+			"science": 10,
 		}
 		"uniques": [
 			"[+10]% Great Person generation [in this city]",
