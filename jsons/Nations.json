@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Poland-Lithuania",
+		"name": "Poland",
 		"leaderName": "Jan III Sobieski",
-		"adjective": ["Polish-Lithuanian"],
-		"startBias": ["Avoid [Coast]","Plains"],
+		"adjective": ["Polish"],
+		"startBias": ["Avoid [{Coast}{Hill}]","Plains"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "PLC placeholder 1",
-		"startIntroPart2": "PLC placeholder 2",
+		"startIntroPart1": "PL placeholder 1",
+		"startIntroPart2": "PL placeholder 2",
 		
 		"declaringWar": "war_dec",
 		"attacked": "attack",
@@ -27,13 +27,13 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [220,20,60],
+		"outerColor": [220,40,80],
 		"innerColor": [255,255,255],
 		"uniqueName": "Golden Liberty",
-		"uniques": [ "[+1 Happiness] per [1] social policies adopted",
-			"[+20]% [Culture] [in all cities] <during a Golden Age>"
+		"uniques": [ "[+2 Happiness] per [1] social policies adopted",
+			"[+20]% [{Culture}{Faith}] [in all cities] <during a Golden Age>"
 		],
-		"cities": ["Warszawa","Wilno","Kraków","Lublin","Kowno","Gniezno","Lwów","Toruń","Kamieniec",
-			"Gdanśk","Elbąg","Przemyśl","Częstochowa","Kazimierz","Grodno","Kalisz","Sandomierz"]
+		"cities": ["Warszawa","Kraków","Lublin","Gniezno","Lwów","Wilno","Toruń","Kamieniec",
+			"Gdanśk","Elbąg","Przemyśl","Częstochowa","Kazimierz","Grodno","Kalisz","Sandomierz","Królewiec"]
 	}
 ]
