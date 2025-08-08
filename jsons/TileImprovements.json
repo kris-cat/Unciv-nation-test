@@ -2,15 +2,15 @@
     {
         "name": "Folwark",
         "terrainsCanBeBuiltOn": [
-          "Plains","Grassland","Hill","Forest"
+          "Plains","Grassland"
         ],
-        "production": 2,
+        "production": 1,
         "gold": 2,
         "uniqueTo": "Poland-Lithuania",
         "turnsToBuild": 9,
         "techRequired": "Civil Service"
         "uniques": [
-            "Cannot be built on [Land] tiles <in tiles adjacent to [{Folwark}{City center}] tiles>",
+            "Cannot be built on [Land] tiles <in tiles adjacent to [Folwark] tiles>",
             "[+1 Food] for each adjacent [{Farm}{Pasture}]",
             "[+2 Culture] <after discovering [Flight]>",
         ]
@@ -18,7 +18,7 @@
     {
         "name": "Castrum",
         "terrainsCanBeBuiltOn": [
-        "Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"
+        "Land"
         ],
         "production": 2,
         "uniqueTo": "Rome",
@@ -33,7 +33,7 @@
     {
         "name": "Roman Villa",
         "terrainsCanBeBuiltOn": [
-        "Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"
+        "Land"
         ],
         "gold": 2,
         "culture": 1,
