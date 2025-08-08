@@ -31,7 +31,7 @@
 		"upgradesTo": "Longswordsman",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
-		"uniques": ["Can build [Road] improvements on tiles", "Can build [Castrum] improvements on tiles"],
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
