@@ -2,7 +2,7 @@
 	{
 		"name": "Winged Hussar",
 		"unitType": "Mounted",
-		"uniqueTo": "Poland-Lithuania",
+		"uniqueTo": "Poland",
 		"replaces": "Lancer",
 		"movement": 5,
 		"strength": 28,
