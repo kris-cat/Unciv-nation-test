@@ -9,9 +9,9 @@
         "turnsToBuild": 9,
         "techRequired": "Civil Service"
         "uniques": [
-            "[+1 Food, +1 Gold] <with [2] to [3] neighboring [{Farm}{Pasture}] tiles>",
-            "[+2 Food, +2 Gold] <with [4] to [5] neighboring [{Farm}{Pasture}] tiles>",
-            "[+3 Food, +3 Gold] <with [6] to [6] neighboring [{Farm}{Pasture}] tiles>",
+            "[+1 Food, +1 Gold] <with [2] to [3] neighboring [Farm] tiles>",
+            "[+2 Food, +2 Gold] <with [4] to [5] neighboring [Farm] tiles>",
+            "[+3 Food, +3 Gold] <with [6] to [6] neighboring [Farm] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]",
             "Only available <with [0] to [0] neighboring [Folwark] tiles>",
             "[-3 Food, -3 Gold, -3 Faith] for each adjacent [Folwark]",
@@ -51,9 +51,9 @@
         "turnsToBuild": 9,
         "techRequired": "Economics"
         "uniques": [
-            "[+1 Food] <with [2] to [3] neighboring [{Farm}{Pasture}{Camp}] tiles>",
-            "[+2 Food] <with [4] to [5] neighboring [{Farm}{Pasture}{Camp}] tiles>",
-            "[+3 Food] <with [6] to [6] neighboring [{Farm}{Pasture}{Camp}] tiles>",
+            "[+1 Food] <with [2] to [3] neighboring [Farm] tiles>",
+            "[+2 Food] <with [4] to [5] neighboring [Farm] tiles>",
+            "[+3 Food] <with [6] to [6] neighboring [Farm] tiles>",
             "[+1 Gold] for each adjacent [{Pasture}{Camp}]",
 			"Pillaging this improvement yields approximately [+20 Gold]",
             "Only available <with [0] to [0] neighboring [Homestead] tiles>",
