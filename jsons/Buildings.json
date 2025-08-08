@@ -16,5 +16,19 @@
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Horseback Riding"
+	},
+	{
+		"name": "Forum",
+		"uniqueTo": "Rome",
+		"hurryCostModifier": 25,
+		"percentStatBonus": {
+			"science": 5,
+			"culture": 5,
+		}
+		"uniques": [
+			"[+10]% Great Person generation",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction"
 	}
 ]
