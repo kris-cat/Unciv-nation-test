@@ -11,7 +11,8 @@
         "techRequired": "Civil Service"
         "uniques": [
             "Cannot be built on [Land] tiles <in tiles adjacent to [Folwark] tiles>",
-            "[+1 Food] for each adjacent [{Farm}{Pasture}]",
+            "[+1 Food] for each adjacent [Farm]",
+            "[+1 Food] for each adjacent [Pasture]",
             "[+2 Culture] <after discovering [Flight]>",
         ]
     },
@@ -42,7 +43,8 @@
         "techRequired": "Drama and Poetry",
         "uniques": [
             "Cannot be built on [Land] tiles <in tiles adjacent to [Roman Villa] tiles>",
-            "[+1 Gold] for each adjacent [{Farm}{Plantation}]",
+            "[+1 Gold] for each adjacent [Farm]",
+            "[+1 Gold] for each adjacent [Plantation]",
             "[+1 Culture] for each adjacent [Luxury resource]",
             "[+2 Culture] <after discovering [Flight]>"
         ]
