@@ -1,16 +1,17 @@
 [
 	{
-		"name": "Dworek",
+		"name": "Ducal Stable",
+		"replaces": "Stable",
 		"uniqueTo": "Poland-Lithuania",
-		"cost": 100,
-		"hurryCostModifier": 160,
-		"happiness": 1,
-		"uniques": [
-			"Must have an owned [Farm] within [3] tiles",
-			"[+1 Gold] from [Farm] tiles [in this city]",
-			"[+1 Culture] from [Pasture] tiles [in this city]",
-			"[+1 Production] from [Plantation] tiles [in this city]"
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production, +1 Gold] from [Cattle] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Horses] tiles [in this city]",
+			"[+1 Production, +1 Gold] from [Sheep] tiles [in this city]",
+			"New [Mounted] units start with [15] XP [in this city]", 
+			"Destroyed when the city is captured"
 		],
-		"requiredTech": "Civil Service"
+		"requiredTech": "Horseback Riding"
 	}
 ]
