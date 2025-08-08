@@ -48,7 +48,7 @@
         "food": 2,
         "uniqueTo": "America",
         "turnsToBuild": 9,
-        "techRequired": "Economy"
+        "techRequired": "Economics"
         "uniques": [
             "[+1 Food] <with [2] to [3] neighboring [Farm] tiles>",
             "[+2 Food] <with [4] to [5] neighboring [Farm] tiles>",
@@ -81,7 +81,7 @@
 		"culture": 3,
         "production": 2
 		"terrainsCanBeBuiltOn": [
-            "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Floodplains" 
+            "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Flood plain" 
         ],
 		"turnsToBuild": 7,
 		"uniques": [
