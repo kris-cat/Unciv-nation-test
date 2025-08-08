@@ -11,7 +11,7 @@
         "uniques": [
             "Only available <with [0] to [0] neighboring [Folwark] tiles>",
             "Cannot be built on [resource] tiles",
-            "[+0.5 Food] for each adjacent [Farm]",
+            "[+0,5 Food] for each adjacent [Farm]",
             "[+1 Production] for each adjacent [Pasture]",
             "[+2 Culture] <after discovering [Flight]>",
             "Only available <with [0] to [0] neighboring [Folwark] tiles>",
