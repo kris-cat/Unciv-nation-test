@@ -4,8 +4,7 @@
         "terrainsCanBeBuiltOn": [
           "Plains","Grassland"
         ],
-        "production": 1,
-        "gold": 2,
+        "faith": 2,
         "uniqueTo": "Poland",
         "turnsToBuild": 9,
         "techRequired": "Civil Service"
@@ -16,7 +15,7 @@
             "[+1 Production] for each adjacent [Pasture]",
             "[+2 Culture] <after discovering [Flight]>",
             "Only available <with [0] to [0] neighboring [Folwark] tiles>",
-            "[-2 Food, -2 Production, -2 Gold] for each adjacent [Folwark]",
+            "[-3 Food, -3 Production, -3 Faith] for each adjacent [Folwark]",
             "Cannot be built on [resource] tiles"
         ]
     },
