@@ -81,7 +81,7 @@
 		"culture": 3,
         "production": 2
 		"terrainsCanBeBuiltOn": [
-            "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Flood plain" 
+            "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Flood plains" 
         ],
 		"turnsToBuild": 7,
 		"uniques": [
