@@ -1,5 +1,19 @@
 [
 	{
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 30,
+		"requiredTech": "Sailing",
+		"uniques": [
+			"Cannot enter ocean tiles <before discovering [Astronomy]>",
+			"May create improvements on water resources",
+            "Uncapturable",
+			"Can instantly construct a [Polder] improvement",
+			"Automation is a primary action"
+		]
+	},
+	{
 		"name": "Winged Hussar",
 		"unitType": "Mounted",
 		"uniqueTo": "Poland",
