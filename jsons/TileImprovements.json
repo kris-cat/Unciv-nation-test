@@ -2,7 +2,7 @@
     {
         "name": "Folwark",
         "terrainsCanBeBuiltOn": [
-          "Plains","Grassland","Hills","Forests"
+          "Plains","Grassland","Hill","Forest"
         ],
         "production": 2,
         "gold": 2,
