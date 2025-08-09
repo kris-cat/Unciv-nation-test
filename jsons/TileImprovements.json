@@ -12,7 +12,7 @@
             "[+3 Food, +3 Gold] <with [6] to [6] neighboring [Farm] tiles>",
 			"[+1 Gold, +1 Production] for each adjacent [Pasture]",
 			"Must be next to [Farm]",
-            "Unbuildable <in tiles adjacent to [City center] tiles>"",
+            "Unbuildable <in tiles adjacent to [City center] tiles>",
 			"Cannot be built on [Mountain] tiles",
 			"Cannot be built on [Great Improvement] tiles",
 			"Cannot be built on [Luxury resource] tiles",
