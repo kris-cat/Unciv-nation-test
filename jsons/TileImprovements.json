@@ -90,7 +90,7 @@
             "[+1 Gold] for each adjacent [Polder]",
             "Pillaging this improvement yields approximately [+20 Gold]",
             "Only available <with [1] to [6] neighboring [Water] tiles>",
-            "Only available <with [1] to [6] neighboring [City center] tiles>"
+			"Must be next to [City center]"
         ],
 		"techRequired": "Guilds",
 	}
