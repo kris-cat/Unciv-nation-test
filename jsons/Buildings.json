@@ -39,7 +39,7 @@
 		"uniques": [
 			"[+10]% Production when constructing [All] buildings [in this city]",
 			"[+15]% Production when constructing [Air] units [in this city]",
-			"[+15]% Production when constructing [Armored}] units [in this city]"
+			"[+15]% Production when constructing [Armored] units [in this city]"
 		],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
