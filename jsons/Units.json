@@ -71,10 +71,13 @@
 	{
 		"name": "Redcoat",
 		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "England",
 		"movement": 2,
-		"strength": 28,
+		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
+		"promotions": ["Amphibious"],
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"uniques": [
