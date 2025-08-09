@@ -37,9 +37,9 @@
 		"maintenance": 3,
 		"hurryCostModifier": 0,
 		"uniques": [
-			"[+2 Production] from [{Iron}{Coal}] tiles [in this city]",
 			"[+10]% Production when constructing [All] buildings [in this city]",
-			"[+15]% Production when constructing [{Armored}{Air}] units [in this city]"
+			"[+15]% Production when constructing [Air] units [in this city]",
+			"[+15]% Production when constructing [Armored}] units [in this city]"
 		],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
