@@ -57,4 +57,19 @@
 		],
 		"requiredTech": "Construction"
 	}
+	{
+		"name": "Folwark District",
+		"uniqueTo": "Poland",
+		"cost": 27,
+		"production": 2,
+		"faith": 2,
+		"maintenance": 1,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Creates a [Folwark] improvement on a specific tile",
+			"Unsellable",
+			"Cannot be purchased",
+			"Never destroyed when the city is captured",
+		],
+	},
 ]
