@@ -1,4 +1,17 @@
 [
+	{
+		"name": "Pasture",
+		"production": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Animal Husbandry",
+		"uniques": [
+			"[+1 Food] <after discovering [Fertilizer]>",
+			"[+1 Production] <after discovering [Replaceable Parts]>",
+			"Can only be built to improve a resource",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		],
+		"shortcutKey": "P"
+	},
     {
         "name": "Folwark",
         "terrainsCanBeBuiltOn": [
