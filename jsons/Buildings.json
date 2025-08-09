@@ -60,9 +60,7 @@
 	{
 		"name": "Folwark District",
 		"uniqueTo": "Poland",
-		"cost": 27,
-		"production": 2,
-		"faith": 2,
+		"cost": 75,
 		"maintenance": 1,
 		"requiredTech": "Civil Service",
 		"uniques": [
