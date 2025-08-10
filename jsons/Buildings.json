@@ -68,11 +68,6 @@
 			"Unsellable",
 			"Cannot be purchased",
 			"Never destroyed when the city is captured",
-			"[+1 Gold] <in tiles adjacent to [Folwark] tiles> <in [Farm] tiles>",
-			"[+1 Gold] <in tiles adjacent to [Folwark] tiles> <in [Pasture] tiles>",
-			"[+1 Gold] <in tiles adjacent to [Folwark] tiles> <in [Plantation] tiles>",
-			"[+1 Food] <in tiles adjacent to [Folwark] tiles> <in [Farm] tiles> <before discovering [Fertilizer]>",
-			"[+1 Production] <in tiles adjacent to [Folwark] tiles> <in [Pasture] tiles> <before discovering [Replaceable Parts]>"
 		],
 	},
 ]
