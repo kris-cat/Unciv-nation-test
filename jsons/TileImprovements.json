@@ -44,22 +44,19 @@
           "Plains","Grassland"
         ],
 		"production" : 2,
+		"Faith" : 2,
         "uniques": [
 			"Great Improvement",
 			"Tile provides yield without assigned population",
-			"Must be next to [Farm] <in tiles not adjacent to [City center] tiles>",
 			"Cannot be built on [Mountain] tiles",
 			"Cannot be built on [Great Improvement] tiles",
 			"Cannot be built on [Luxury resource] tiles",
 			"Cannot be built on [Bonus resource] tiles",
+			"Only available <with [0] to [0] neighboring [City center] tiles>",
+			"Only available <with [0] to [0] neighboring [Folwark] tiles>",
 			"Irremovable",
 			"Pillaging this improvement yields approximately [+50 Gold]",
 			"Removes removable features when built",
-            "[+1 Food] <before discovering [Fertilizer]><with [2] to [3] neighboring [Farm] tiles>",
-            "[+2 Food] <before discovering [Fertilizer]><with [4] to [5] neighboring [Farm] tiles>",
-            "[+3 Food] <before discovering [Fertilizer]><with [6] to [6] neighboring [Farm] tiles>",
-			"[+1 Food] for each adjacent [Farm]<after discovering [Fertilizer]>",
-			"[+1 Production] for each adjacent [Pasture]",
         ]
     },
     {
