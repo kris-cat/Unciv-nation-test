@@ -52,6 +52,9 @@
 		"maintenance": 2,
 		"cost": 75,
 		"hurryCostModifier": 50,
+		"percentStatBonus": {
+			"culture": 10,
+		}
 		"uniques": [
 			"Removes extra unhappiness from annexed cities",
 			"[+1 Happiness] [in this city] <for every [Completed Policy branches]>"
@@ -62,9 +65,7 @@
 		"name": "Forum",
 		"uniqueTo": "Rome",
 		"hurryCostModifier": 25,
-		"percentStatBonus": {
-			"science": 10,
-		}
+		"gold": 3,
 		"uniques": [
 			"[+10]% Great Person generation [in this city]",
 			"Destroyed when the city is captured"
