@@ -61,8 +61,8 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Golden Liberty",
-		"uniques": [ "[+2 Happiness, +1 Faith] per [1] social policies adopted",
-			"[+20]% [Culture] [in all cities] <during a Golden Age>"
+		"uniques": [ "[+2 Happiness] per [1] social policies adopted",
+			"[+1 Culture] from every [Pasture]"
 		],
 		"cities": ["Warszawa","Kraków","Łódź","Wrocław","Poznań","Gdańsk","Szczecin","Bydgoszcz",
 			"Wilno","Kowno","Katowice","Białystok","Gdynia","Częstochowa","Radom","Toruń","Kielce","Elbąg","Sandomierz"]
