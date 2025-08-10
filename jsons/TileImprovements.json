@@ -43,7 +43,6 @@
         "terrainsCanBeBuiltOn": [
           "Plains","Grassland"
         ],
-		"production" : 2,
 		"Faith" : 2,
         "uniques": [
 			"Great Improvement",
