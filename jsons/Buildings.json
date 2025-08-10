@@ -54,7 +54,7 @@
 		"hurryCostModifier": 50,
 		"percentStatBonus": {
 			"culture": 10,
-		}
+		},
 		"uniques": [
 			"Removes extra unhappiness from annexed cities",
 			"[+1 Happiness] [in this city] <for every [Completed Policy branches]>"
