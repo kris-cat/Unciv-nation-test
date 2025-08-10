@@ -21,6 +21,7 @@
 			"[+1 Production] from [Pasture] tiles [in this city]",
 			"[+1 Gold] from [Pasture] tiles [in this city]",
 			"New [Mounted] units start with [15] XP [in this city]",
+			"Provides [1] [Horses]",
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Horseback Riding"
@@ -43,6 +44,19 @@
 		],
 		"requiredResource": "Coal",
 		"requiredTech": "Industrialization"
+	},
+	{
+		"name": "Sejmik",
+		"replaces": "Courthouse",
+		"uniqueTo": "Poland",
+		"maintenance": 2,
+		"cost": 75,
+		"hurryCostModifier": 50,
+		"uniques": [
+			"Removes extra unhappiness from annexed cities",
+			"[+1 Happiness] [in this city] <for every [Completed Policy branches]>"
+		],
+		"requiredTech": "Mathematics"
 	},
 	{
 		"name": "Forum",
