@@ -79,11 +79,24 @@
 	{
 		"name": "Folwark District",
 		"uniqueTo": "Poland",
-		"cost": 75,
-		"maintenance": 1,
+		"cost": 100,
+		"maintenance": 2,
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"Creates a [Folwark] improvement on a specific tile",
+			"Unsellable",
+			"Cannot be purchased",
+			"Never destroyed when the city is captured",
+		],
+	},
+	{
+		"name": "Bath District",
+		"uniqueTo": "Rome",
+		"cost": 75,
+		"maintenance": 2,
+		"requiredTech": "Engineering",
+		"uniques": [
+			"Creates a [Bath] improvement on a specific tile",
 			"Unsellable",
 			"Cannot be purchased",
 			"Never destroyed when the city is captured",
