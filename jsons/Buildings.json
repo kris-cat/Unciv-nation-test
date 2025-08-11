@@ -17,10 +17,9 @@
 		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": [
-			"[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+25]% Production when constructing [Mounted] units [in this city]",
 			"[+1 Production] from [Pasture] tiles [in this city]",
 			"[+1 Gold] from [Pasture] tiles [in this city]",
-			"New [Mounted] units start with [15] XP [in this city]",
 			"Provides [1] [Horses]",
 			"Destroyed when the city is captured"
 		],
@@ -49,23 +48,28 @@
 		"name": "Sejmik",
 		"replaces": "Courthouse",
 		"uniqueTo": "Poland",
-		"maintenance": 2,
-		"cost": 75,
+		"maintenance": 4,
+		"cost": 100,
 		"hurryCostModifier": 50,
 		"percentStatBonus": {
 			"culture": 10,
 		},
 		"uniques": [
 			"Removes extra unhappiness from annexed cities",
-			"[25]% of excess happiness converted to [Gold]"
+			"[20]% of excess happiness converted to [Gold]"
 		],
 		"requiredTech": "Mathematics"
 	},
 	{
 		"name": "Forum",
+		"replaces": "Courthouse",
 		"uniqueTo": "Rome",
 		"hurryCostModifier": 25,
-		"gold": 3,
+		"gold": 2,
+		"culture": 2,
+		"percentStatBonus": {
+			"gold": 25
+		},
 		"uniques": [
 			"[+10]% Great Person generation [in this city]",
 			"Destroyed when the city is captured"
