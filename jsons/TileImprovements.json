@@ -88,7 +88,7 @@
         "uniques": [
 			"[+2 Culture] for each adjacent [City center]",
 			"[+1 Culture] for each adjacent [Plantation]",
-			"[+1 Gold] for each adjacent [Luxury Resource]",
+			"[+1 Gold] for each adjacent [Luxury resource]",
             "[+1 Gold] <with [2] to [3] neighboring [Farm] tiles>",
             "[+2 Gold] <with [4] to [5] neighboring [Farm] tiles>",
             "[+3 Gold] <with [6] to [6] neighboring [Farm] tiles>",
