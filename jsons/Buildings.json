@@ -75,7 +75,8 @@
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Construction"
-	}
+	},
+	// District buildings
 	{
 		"name": "Folwark District",
 		"uniqueTo": "Poland",
@@ -96,10 +97,11 @@
 		"maintenance": 2,
 		"requiredTech": "Engineering",
 		"uniques": [
+			"[+1 Faith] from every specialist [in this city]",
 			"Creates a [Bath] improvement on a specific tile",
 			"Unsellable",
 			"Cannot be purchased",
 			"Never destroyed when the city is captured",
 		],
-	},
+	}
 ]
