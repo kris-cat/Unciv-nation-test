@@ -43,7 +43,7 @@
         "terrainsCanBeBuiltOn": [
           "Plains","Grassland"
         ],
-		"gold" : 2,
+		"production" : 2,
         "uniques": [
 			"Great Improvement",
 			"Tile provides yield without assigned population",
