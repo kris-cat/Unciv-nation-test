@@ -57,7 +57,7 @@
 		},
 		"uniques": [
 			"Removes extra unhappiness from annexed cities",
-			"[+3 Happiness] [in this city]"
+			"[25]% of excess happiness converted to [Gold]"
 		],
 		"requiredTech": "Mathematics"
 	},
