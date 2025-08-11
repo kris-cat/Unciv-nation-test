@@ -46,7 +46,7 @@
 			"[+1] Sight",
 			"No movement cost to pillage",
             "No defensive terrain bonus",
-            "[-33]% Strength <vs cities> <when attacking>",
+            "[-33]% Strength <vs cities> <when attacking>"
 		],
 		"promotions": ["Formation I"],
 		"upgradesTo": "Landship",
