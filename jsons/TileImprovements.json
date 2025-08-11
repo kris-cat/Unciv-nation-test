@@ -163,7 +163,7 @@
 	{
         "name": "Bath",
         "terrainsCanBeBuiltOn": [
-          "Fresh Water"
+          "Land"
         ],
 		"happiness": 1,
 		"culture": 3,
@@ -172,6 +172,7 @@
 			"Tile provides yield without assigned population",
 			"[+2 Gold] for each adjacent [Roman Villa]",
 			"Must be next to [City center]",
+			"Must be next to [Fresh Water]",
 			"Cannot be built on [Water] tiles",
 			"Cannot be built on [Mountain] tiles",
 			"Cannot be built on [Great Improvement] tiles",
