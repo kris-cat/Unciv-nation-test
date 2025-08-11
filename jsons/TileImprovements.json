@@ -1,7 +1,8 @@
 [
+	// Rebalanced improvments?
 	{
 		"name": "Farm",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Agriculture",
@@ -10,8 +11,9 @@
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+18 Gold]",
-			"Cannot be built on [Water] tiles",
-		]
+			// 
+			"Cannot be built on [Water] tiles"
+		],
 		"shortcutKey": "F"
 	},
 	{
@@ -161,14 +163,14 @@
 	{
         "name": "Bath",
         "terrainsCanBeBuiltOn": [
-          "{non-[Water]} {Fresh Water}"
+          "Fresh Water"
         ],
 		"happiness": 1,
 		"culture": 3,
         "uniques": [
 			"Great Improvement",
 			"[+2 Gold] for each adjacent [Roman Villa]",
-			"Must be next to [City center] <in [Fresh Water] tiles>",
+			"Must be next to [City center]",
 			"Cannot be built on [Mountain] tiles",
 			"Cannot be built on [Great Improvement] tiles",
 			"Cannot be built on [Luxury resource] tiles",
