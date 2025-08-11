@@ -53,7 +53,7 @@
 		"cost": 75,
 		"hurryCostModifier": 50,
 		"percentStatBonus": {
-			"culture": 10,
+			"culture": 1,
 		},
 		"uniques": [
 			"Removes extra unhappiness from annexed cities",
