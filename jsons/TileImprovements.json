@@ -54,29 +54,6 @@
 		"shortcutKey": "P"
 	},
     {
-        "name": "Folwark",
-        "terrainsCanBeBuiltOn": [
-          "Plains","Grassland"
-        ],
-		"production" : 2,
-        "uniques": [
-			"Great Improvement",
-			"Tile provides yield without assigned population",
-			"[+1 Food] for each adjacent [Farm] <before discovering [Fertilizer]>",
-			"[+1 Production] for each adjacent [Pasture] <before discovering [Fertilizer]>",
-			"[+1 Culture] for each adjacent [Farm] <after discovering [Fertilizer]>",
-			"[+1 Gold] for each adjacent [Pasture] <after discovering [Fertilizer]>",
-			"Cannot be built on [Mountain] tiles",
-			"Cannot be built on [Hill] tiles",
-			"Cannot be built on [Great Improvement] tiles",
-			"Cannot be built on [Luxury resource] tiles",
-			"Cannot be built on [Bonus resource] tiles",
-			"Irremovable",
-			"Pillaging this improvement yields approximately [+20 Gold]",
-			"Removes removable features when built",
-        ]
-    },
-    {
         "name": "Roman Villa",
         "terrainsCanBeBuiltOn": [
         "Land"
@@ -156,5 +133,49 @@
 			"Must be next to [City center]"
         ],
 		"techRequired": "Guilds",
-	}
+	},
+	// District-type Improvements
+	{
+        "name": "Folwark",
+        "terrainsCanBeBuiltOn": [
+          "Plains","Grassland"
+        ],
+		"production" : 2,
+        "uniques": [
+			"Great Improvement",
+			"Tile provides yield without assigned population",
+			"[+1 Food] for each adjacent [Farm] <before discovering [Fertilizer]>",
+			"[+1 Production] for each adjacent [Pasture] <before discovering [Fertilizer]>",
+			"[+1 Culture] for each adjacent [Farm] <after discovering [Fertilizer]>",
+			"[+1 Gold] for each adjacent [Pasture] <after discovering [Fertilizer]>",
+			"Cannot be built on [Mountain] tiles",
+			"Cannot be built on [Hill] tiles",
+			"Cannot be built on [Great Improvement] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			"Cannot be built on [Bonus resource] tiles",
+			"Irremovable",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Removes removable features when built",
+        ]
+    },
+	{
+        "name": "Bath",
+        "terrainsCanBeBuiltOn": [
+          "Land"
+        ],
+		"happiness": 1,
+		"culture": 3,
+        "uniques": [
+			"Great Improvement",
+			"[+2 Gold] for each adjacent [Roman Villa]",
+			"Must be next to [City center] <in [Fresh Water] tiles>",
+			"Cannot be built on [Mountain] tiles",
+			"Cannot be built on [Great Improvement] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			"Cannot be built on [Bonus resource] tiles",
+			"Irremovable",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Removes removable features when built",
+        ]
+    },
 ]
