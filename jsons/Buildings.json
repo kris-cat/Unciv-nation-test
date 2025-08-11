@@ -56,13 +56,13 @@
 		},
 		"uniques": [
 			"Removes extra unhappiness from annexed cities",
-			"[20]% of excess happiness converted to [Gold]"
+			"[10]% of excess happiness converted to [Gold]"
 		],
 		"requiredTech": "Mathematics"
 	},
 	{
 		"name": "Forum",
-		"replaces": "Courthouse",
+		"replaces": "Market",
 		"uniqueTo": "Rome",
 		"hurryCostModifier": 25,
 		"gold": 2,
