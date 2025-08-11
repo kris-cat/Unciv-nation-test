@@ -161,7 +161,7 @@
 	{
         "name": "Bath",
         "terrainsCanBeBuiltOn": [
-          "[{non-[Water]} {Fresh Water}]"
+          "{non-[Water]} {Fresh Water}"
         ],
 		"happiness": 1,
 		"culture": 3,
