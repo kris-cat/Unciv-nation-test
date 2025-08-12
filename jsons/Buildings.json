@@ -103,5 +103,18 @@
 			"Cannot be purchased",
 			"Never destroyed when the city is captured",
 		],
+	},
+	{
+		"name": "Grachten District",
+		"uniqueTo": "Netherlands",
+		"cost": 75,
+		"maintenance": 2,
+		"requiredTech": "Engineering",
+		"uniques": [
+			"Creates a [Grachten] improvement on a specific tile",
+			"Unsellable",
+			"Cannot be purchased",
+			"Never destroyed when the city is captured",
+		],
 	}
 ]
