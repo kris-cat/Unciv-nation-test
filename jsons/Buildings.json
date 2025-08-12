@@ -109,7 +109,7 @@
 		"uniqueTo": "Netherlands",
 		"cost": 75,
 		"maintenance": 2,
-		"requiredTech": "Engineering",
+		"requiredTech": "Guilds",
 		"uniques": [
 			"Creates a [Grachten] improvement on a specific tile",
 			"Unsellable",
