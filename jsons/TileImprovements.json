@@ -117,24 +117,6 @@
         ],
 		"techRequired": "Guilds",
 		"shortcutKey": "F"
-	}
-    {
-		"name": "Grachten",
-		"uniqueTo": "The Netherlands",
-		"culture": 3,
-        "production": 2
-		"terrainsCanBeBuiltOn": [
-            "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Flood plains" 
-        ],
-		"turnsToBuild": 7,
-		"uniques": [
-            "[+1 Food] for each adjacent [Farm]",
-            "[+1 Gold] for each adjacent [Polder]",
-            "Pillaging this improvement yields approximately [+20 Gold]",
-            "Only available <with [1] to [6] neighboring [Water] tiles>",
-			"Must be next to [City center]"
-        ],
-		"techRequired": "Guilds",
 	},
 	// District-type Improvements
 	{
@@ -178,7 +160,32 @@
 			"Pillaging this improvement yields approximately [+20 Gold]",
 			"Removes removable features when built",
 			"Tile provides yield without assigned population",
-			"[+2 Gold] for each adjacent [Roman Villa]",
+			"[+2 Gold] for each adjacent [Roman Villa]"
         ]
-    }
+    },
+	{
+		"name": "Grachten",
+		"uniqueTo": "The Netherlands",
+		"culture": 2,
+        "production": 2
+		"terrainsCanBeBuiltOn": [
+            "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Flood plains" 
+        ],
+		"turnsToBuild": 7,
+		"uniques": [
+			"Great Improvement",
+			"Cannot be built on [Mountain] tiles",
+			"Cannot be built on [Great Improvement] tiles",
+			"Cannot be built on [Luxury resource] tiles",
+			"Cannot be built on [Bonus resource] tiles",
+			"Must be next to [City center] <with [1] to [6] neighboring [Water] tiles>",
+			"Irremovable",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Removes removable features when built",
+			"Tile provides yield without assigned population",
+            "[+1 Food] for each adjacent [Farm]",
+            "[+1 Gold, +2 Production] for each adjacent [Polder]"
+        ],
+		"techRequired": "Guilds",
+	}
 ]
