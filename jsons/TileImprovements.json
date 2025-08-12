@@ -146,10 +146,6 @@
         "uniques": [
 			"Great Improvement",
 			"Tile provides yield without assigned population",
-			"[+1 Food] for each adjacent [Farm] <before discovering [Fertilizer]>",
-			"[+1 Production] for each adjacent [Pasture] <before discovering [Fertilizer]>",
-			"[+1 Culture] for each adjacent [Farm] <after discovering [Fertilizer]>",
-			"[+1 Gold] for each adjacent [Pasture] <after discovering [Fertilizer]>",
 			"Cannot be built on [Mountain] tiles",
 			"Cannot be built on [Hill] tiles",
 			"Cannot be built on [Great Improvement] tiles",
@@ -158,6 +154,10 @@
 			"Irremovable",
 			"Pillaging this improvement yields approximately [+20 Gold]",
 			"Removes removable features when built",
+			"[+1 Food] for each adjacent [Farm] <before discovering [Fertilizer]>",
+			"[+1 Production] for each adjacent [Pasture] <before discovering [Fertilizer]>",
+			"[+1 Culture] for each adjacent [Farm] <after discovering [Fertilizer]>",
+			"[+1 Gold] for each adjacent [Pasture] <after discovering [Fertilizer]>",
         ]
     },
 	{
@@ -169,16 +169,16 @@
 		"culture": 3,
         "uniques": [
 			"Great Improvement",
-			"Tile provides yield without assigned population",
-			"[+2 Gold] for each adjacent [Roman Villa]",
-			"Must be next to [City center]",
 			"Cannot be built on [Mountain] tiles",
 			"Cannot be built on [Great Improvement] tiles",
 			"Cannot be built on [Luxury resource] tiles",
 			"Cannot be built on [Bonus resource] tiles",
+			"Must be next to [City center]",
 			"Irremovable",
 			"Pillaging this improvement yields approximately [+20 Gold]",
 			"Removes removable features when built",
+			"Tile provides yield without assigned population",
+			"[+2 Gold] for each adjacent [Roman Villa]",
         ]
     }
 ]
