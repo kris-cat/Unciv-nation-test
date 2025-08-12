@@ -171,7 +171,6 @@
 		"terrainsCanBeBuiltOn": [
             "Grassland", "Plains", "Desert" , "Tundra", "Snow", "Flood plains" 
         ],
-		"turnsToBuild": 7,
 		"uniques": [
 			"Great Improvement",
 			"Cannot be built on [Mountain] tiles",
@@ -186,6 +185,5 @@
             "[+1 Food] for each adjacent [Farm]",
             "[+1 Gold, +2 Production] for each adjacent [Polder]"
         ],
-		"techRequired": "Guilds",
 	}
 ]
